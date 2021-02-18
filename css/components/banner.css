@@ -1,0 +1,22 @@
+.card-banner {
+  background-image: url("https://source.unsplash.com/random");
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(255, 255, 255);
+  font-size: 24px;
+  font-weight: bolder;
+  border-radius: 4px;
+}
+.card-banner p {
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+}
+.card-banner div{
+  margin-top: 70px;
+}
+
